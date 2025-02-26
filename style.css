@@ -1,0 +1,320 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    text-align: center;
+}
+.container {
+    background-color: burlywood;
+    width:  350px;
+    height: 500px;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.input-menu {
+    background-color: darksalmon;
+    width: 300px;
+    height: 100px;
+    margin: auto;
+    margin-top: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.number-menu {
+    background-color: cadetblue;
+    width: 250px;
+    height: 300px;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.output-box {
+    background-color: darksalmon;
+    border: none;
+    border-radius: 20px;
+    font-size: 50px;
+    width: 250px;
+    height: 50px;
+    margin-top: 25px;
+    
+}
+
+
+ 
+.button-1 {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-1:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-2 {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-2:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-3 {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-3:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-4 {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.button-4:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-5 {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-5:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-6 {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-6:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-7 {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-7:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-8 {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-8:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-9 {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-9:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-0{
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-0:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-clear {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-clear:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-plus {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-plus:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-minus {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-minus:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-multiply {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-multiply:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-divide {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-divide:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-equal {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-equal:hover {
+    background-color: rgb(193, 130, 108);
+}
+
+.button-dot {
+    background-color: darksalmon;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-dot:hover {
+    background-color: rgb(193, 130, 108);
+}
